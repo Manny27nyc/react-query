@@ -1641,10 +1641,10 @@
   resolved "https://registry.yarnpkg.com/@next/mdx/-/mdx-9.5.3.tgz#246fd65b2f0854894d7d80b27a7af1708ccceb49"
   integrity sha512-r4C5bFG6bQ1WfCR8re/GUFgw2CmpMByOILMYAqKhrHE/Ota2mloxdqLQOR/fBMy3f3wvEMFvl7YdEtQPPA9oLg==
 
-"@next/plugin-google-analytics@^9.5.3":
-  version "9.5.3"
-  resolved "https://registry.yarnpkg.com/@next/plugin-google-analytics/-/plugin-google-analytics-9.5.3.tgz#46cd7dbdd7b7bcf5a4dbb106c3c30254ddce271e"
-  integrity sha512-YigZJb+nDIJZ+uUGdOCQmGonbYd5nI+/l1DYJbJMHtVbivJjHEiBeQeQrHpwmFvONUXDd2nfGGT+yzRPrVm3uA==
+"@next/plugin-google-analytics@^9.5.5":
+  version "9.5.5"
+  resolved "https://registry.yarnpkg.com/@next/plugin-google-analytics/-/plugin-google-analytics-9.5.5.tgz#f11715b9d94be50e3049fdbe766fcfe8cefbaadb"
+  integrity sha512-t1zwLAS88GPcmm3M59/LThag2M8iimsOhAfdpwP99LW87wipUK4PrGPLkq6x24xUtMC857F8GPfxN4By10PwCg==
 
 "@next/react-dev-overlay@9.5.3":
   version "9.5.3"
